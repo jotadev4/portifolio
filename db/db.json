@@ -1,0 +1,12 @@
+{
+  "perfil": {
+    "avatar": "perfil.png",
+    "alt": "joao",
+    "nome": "João Pedro",
+    "site": "https://www.linkedin.com/in/joão-pedro-machado-85714226a/",
+    "bio": "Aluno na PUC - Minas, Ciência da Computação.",
+    "Sobre": "Sou uma pessoa criativa que busca novas maneiras de resolver os problemas do dia a dia.\nAtualmente atuo na área de Suporte de TI e na área de Desenvolvimento Fullstack",
+    "linguagens": "Utilizo no meu dia: C, C#, .NET, HTML/CSS/JS, Python, SQL.",
+    "localizacao": "Belo Horizonte, MG, Brazil"
+  }
+}
